@@ -9,7 +9,7 @@
 　共通部とか複雑な処理やテストコード、ライブラリ内のコードなんかで見かけることがある。
 
 以下はサンプルコードとその解説。  
-[*AnonymousClass.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/AnonymousClass.java)
+[*AnonymousClass.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/AnonymousClass.java)
 
 ---
 #### *Objectを継承した無名クラスの作成例:*

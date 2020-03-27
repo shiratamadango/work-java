@@ -7,25 +7,25 @@
 Java学習者向けのサンプルコード
 
 ### メインクラス
-- [*AnonymousClass.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/AnonymousClass.java)
+- [*AnonymousClass.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/AnonymousClass.java)
   - 無名クラスのサンプル
-- [*ExFunction.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/ExFunction.java)
+- [*ExFunction.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/ExFunction.java)
   - Function インターフェースのサンプル
-- [*ExGenerics.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/ExGenerics.java)
+- [*ExGenerics.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/ExGenerics.java)
   - ジェネリクスのサンプル
-- [*ExStream.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/ExStream.java)
+- [*ExStream.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/ExStream.java)
   - Stream API のサンプル
-- [*ExTryWithResources.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/ExTryWithResources.java)
+- [*ExTryWithResources.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/ExTryWithResources.java)
   - try-with-resources のサンプル
-- [*SampleForkJoinPool.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/SampleForkJoinPool.java)
+- [*SampleForkJoinPool.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/SampleForkJoinPool.java)
   - ForkJoinPool のサンプル
-- [*SampleJoin.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/SampleJoin.java)
+- [*SampleJoin.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/SampleJoin.java)
   - 文字列連結のサンプル
-- [*SampleSort.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/SampleSort.java)
+- [*SampleSort.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/SampleSort.java)
   - リストのソートのサンプル
-- [*SampleThread.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/SampleThread.java)
+- [*SampleThread.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/SampleThread.java)
   - 非同期処理のサンプル
-- [*ValidatingSubSetOfSortedSet.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/ValidatingSubSetOfSortedSet.java)
+- [*ValidatingSubSetOfSortedSet.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/ValidatingSubSetOfSortedSet.java)
   - SortedSet(TreeSet)のsubSetメソッドの検証
 
 ### build & 実行方法

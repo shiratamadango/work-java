@@ -119,7 +119,7 @@ public interface Function<T, R> {
 これまでは作ったクラスに順序の要件があるときに`implements Comparator`して使うことが主だったけど
 Java8以降はラムダ式で使うことも増えたよ。  
 （Example:
-[*ExFunction.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/ExFunction.java)
+[*ExFunction.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/ExFunction.java)
 )
 
 
@@ -191,7 +191,7 @@ list.sort((c1, c2) -> Double.compare(c1.doubleValue(), c2.doubleValue()));
 
 - 型パラメータはインスタンス生成時に決まるものと、型推論で決まるものがあるけどこの説明はちょっと割愛するよ。
 
-(Example: [*ExGenerics.java*](https://github.com/shiratamadango/work-java/JavaSample/src/main/java/com/example/ExGenerics.java))
+(Example: [*ExGenerics.java*](https://github.com/shiratamadango/work-java/blob/master/JavaSample/src/main/java/com/example/ExGenerics.java))
 
 
 #### ラムダ式の書き方のルールを教えて！
