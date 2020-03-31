@@ -32,7 +32,7 @@ Java学習者向けのサンプルコード
 ```
 mkdir 'workdir name'
 cd 'workdir name'
-clone https://github.com/shiratamadango/work-java.git
+git clone https://github.com/shiratamadango/work-java.git
 cd JavaSample
 gradle build
 gradle launch -Pmain=ExFunction
